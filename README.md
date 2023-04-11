@@ -6,3 +6,4 @@ I am cobaltyang
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltyang&layout=compact)
 
+![](https://raw.githubusercontent.com/cobaltyang/cobaltyang/main/assets/github-contribution-grid-snake.svg)
