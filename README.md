@@ -107,6 +107,9 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/cobaltyang/cobaltyang/main/assets/github-contribution-grid-snake.svg" align="center" />
 </div>  
+## Language / Framework stats
+https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cobalt yang
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=cobaltyang&&style=flat-square" align="center" />
