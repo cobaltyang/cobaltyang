@@ -1,7 +1,3 @@
-![](https://komarev.com/ghpvc/?username=cobaltyang&color=brightgreen)
-
-![](https://raw.githubusercontent.com/cobaltyang/cobaltyang/main/assets/github-contribution-grid-snake.svg)
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -124,4 +120,4 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-
+![](https://raw.githubusercontent.com/cobaltyang/cobaltyang/main/assets/github-contribution-grid-snake.svg)
