@@ -90,8 +90,10 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=cobaltyang&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltyang&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltyang&hide_border=true&layout=compact" align="center" /></div>
+<br/>  
 
+<img src="https://streak-stats.demolab.com?user=cobaltyang&theme=transparent&background=45%2CD1EBB0%2C66EB5E" />
 <br/>  
 
 ## StackOverflow Activity
