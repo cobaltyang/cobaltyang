@@ -95,6 +95,7 @@
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=cobaltyang&theme=transparent&background=45%2CD1EBB0%2C66EB5E"></div>
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=cobaltyang&theme=react)
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
