@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Cobaltyang, a  coding rookie👨‍💻</div>  
+### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF568100&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Cobaltyang!!;A+beginner+exploring+everything%F0%9F%98%8B" alt="Typing SVG" /></div>  
   
 
 - 🔭 I’m an individual developer.  
