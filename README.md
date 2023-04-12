@@ -99,17 +99,13 @@
 - [htaccess is not properly working](https://stackoverflow.com/questions/9956362/htaccess-is-not-properly-working)
 <!-- STACKOVERFLOW:END -->
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+<br/> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=cobaltyang&&style=flat-square" align="center" />
 </div>  
   
-
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012)](https://netease-recent-profile.vercel.app/?id=126764012)
 <br/>  
 
 <div align="center">
