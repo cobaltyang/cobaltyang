@@ -101,13 +101,17 @@
 
 <br/> 
 
+
+
+
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012)](https://netease-recent-profile.vercel.app/?id=126764012)  
+
+<img src="https://netease-recent-profile.vercel.app/?id=126764012" alt="Netease recently played" title="Netease recently played">
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=cobaltyang&&style=flat-square" align="center" />
 </div>  
-  
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012)](https://netease-recent-profile.vercel.app/?id=131112468)
-<br/>  
-<img src="https://netease-recent-profile.vercel.app/?id=126764012" alt="Netease recently played" title="Netease recently played">
+
 <div align="center">
             <a href="https://www.buymeacoffee.com/cobaltyang" target="_blank" style="display: inline-block;">
                 <img
@@ -115,7 +119,11 @@
                     align="center"
                 />
             </a></div>
+            
+            
 <br />
+
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/cobaltyang/cobaltyang/main/assets/github-contribution-grid-snake.svg" align="center" />
 </div>  
