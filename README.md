@@ -105,7 +105,7 @@
 <img src="https://komarev.com/ghpvc/?username=cobaltyang&&style=flat-square" align="center" />
 </div>  
   
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012)](https://netease-recent-profile.vercel.app/?id=126764012)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=126764012)](https://netease-recent-profile.vercel.app/?id=131112468)
 <br/>  
 
 <div align="center">
