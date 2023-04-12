@@ -24,7 +24,7 @@
 <br/>  
 
 
-## 📚My Skill Sets  
+## 📚 My Skill Sets  
 <table><tr><td valign="top" width="33%">
 
 
@@ -70,7 +70,11 @@
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cobaltyang"
 />
 
-## 📱Connect with me  
+
+## 🏆 My Trophy
+
+
+## 📱 Connect with me  
 <div align="center">
 <a href="https://github.com/cobaltyang" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github/>
@@ -90,7 +94,7 @@
 <br/>  
 
 
-## 📊Github Stats  
+## 📊 Github Stats  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cobaltyang&show_icons=true&count_private=true&hide_border=true" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltyang&hide_border=true&layout=compact"/></div>
@@ -100,7 +104,7 @@
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=cobaltyang&theme=react)
 
-## 💻StackOverflow Activity
+## 💻 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [&quot;Feed action request limit reached&quot; - Facebook SDK](https://stackoverflow.com/questions/10463949/feed-action-request-limit-reached-facebook-sdk)
 - [Can not upload images to face book](https://stackoverflow.com/questions/9998761/can-not-upload-images-to-face-book)
@@ -111,7 +115,7 @@
 
 <br/> 
 
-## 🎧I'm Listening
+## 🎧 I'm Listening
 <div align="center">
 <img src="https://netease-recent-profile.vercel.app/?id=131112468" alt="Netease recently played" title="Netease recently played">
 </div>  
