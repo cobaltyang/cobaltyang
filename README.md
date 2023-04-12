@@ -84,12 +84,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cobaltyang&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=cobaltyang&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltyang&hide_border=true&layout=compact" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltyang&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
