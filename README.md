@@ -103,8 +103,6 @@
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=cobaltyang&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
 <br/>  
 
 <div align="center">
@@ -122,5 +120,6 @@
                 />
             </a></div>
 <br />
-
-![](https://raw.githubusercontent.com/cobaltyang/cobaltyang/main/assets/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://raw.githubusercontent.com/cobaltyang/cobaltyang/main/assets/github-contribution-grid-snake.svg" align="center" />
+</div>  
