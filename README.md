@@ -64,7 +64,7 @@
 
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cobaltyang"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cobaltyang&width=512&height=256"
 />
 
 ## Connect with me  
