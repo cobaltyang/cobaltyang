@@ -63,6 +63,10 @@
 <br/>  
 
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cobaltyang"
+/>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/cobaltyang" target="_blank">
@@ -102,16 +106,14 @@
 <br/> 
 
 ## I'm Listening
+<div align="center">
 <img src="https://netease-recent-profile.vercel.app/?id=131112468" alt="Netease recently played" title="Netease recently played">
+</div>  
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/cobaltyang/cobaltyang/main/assets/github-contribution-grid-snake.svg" align="center" />
 </div>  
-## Language / Framework stats
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cobaltyang"
-/>
 
 
 <div align="center">
