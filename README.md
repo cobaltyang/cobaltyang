@@ -145,77 +145,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-451-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.0 MB Used in GitHub's Storage 
- > 
-> 🏆 198 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-🌆 Daytime                110 commits         ███████████████░░░░░░░░░░   60.11 % 
-🌃 Evening                52 commits          ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  45 commits          ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-Wednesday                66 commits          █████████░░░░░░░░░░░░░░░░   36.07 % 
-Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Friday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Other        11 mins         ██████████▒░░░░░░░░░░░░░░   41.47 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Dockerfile               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Jupyter Notebook         1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/cobaltyang/cobaltyang/main/assets/bar_graph.png)
-
-
- Last Updated on 14/04/2023 18:35:33 UTC
 <!--END_SECTION:waka-->
