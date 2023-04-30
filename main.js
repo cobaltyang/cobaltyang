@@ -67,21 +67,11 @@ async function run() {
     //     console.error(`Failed to update Gist: ${error.message}`);
     //   });
 
-    const before = `# 😳 List All Followers And Following
-
-`;
-
     const middle = `
 ## Followers <kbd>${followers.length}</kbd>
 
 <table>
   ${formatTable(followers)}
-</table>
-
-## Following <kbd>${following.length}</kbd>
-
-<table>
-  ${formatTable(following)}
 </table>
 
 `;
@@ -98,7 +88,7 @@ async function run() {
     // 插入要添加的内容
     const before1 = content.substring(0, insertIndex);
     const after = content.substring(insertIndex);
-    const newContent = before+middle;
+    const newContent = middle;
     const updatedContent = before1 + newContent + after;
 
     // 将修改后的文档写回文件
