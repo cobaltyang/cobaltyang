@@ -8,7 +8,6 @@ async function run() {
     const { token } = process.env;
     const octokit = new Octokit({ auth: `token ${token}` });
     const username = github.context.repo.owner;
-
     async function queryFollowers(page = 1) {
       let { data: followers } = await octokit.users.listFollowersForUser({
         username,
