@@ -162,79 +162,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2012%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 🏆 305 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 33 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
-**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                76 commits          ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-🌆 Daytime                140 commits         ███████████░░░░░░░░░░░░░░   44.30 % 
-🌃 Evening                100 commits         ████████░░░░░░░░░░░░░░░░░   31.65 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Tuesday                  67 commits          █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Wednesday                97 commits          ████████░░░░░░░░░░░░░░░░░   30.70 % 
-Thursday                 38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Friday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Saturday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Sunday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+No activity tracked
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in MATLAB** 
-
-```text
-MATLAB                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/cobaltyang/cobaltyang/main/assets/bar_graph.png)
-
-
- Last Updated on 21/05/2023 18:35:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- insert your content here -->
